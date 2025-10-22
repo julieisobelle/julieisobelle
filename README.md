@@ -1,9 +1,10 @@
 # Heisann 👋
-Jeg heter Julie, er 28 år og bor i Bergen.<br />
+Jeg heter <strong>Julie</strong>, er 28 år og bor i Bergen.<br />
 Begynte å lære å kode juni 2022, og begynte på kurset Kodehode august 2022.<br />
-Er nå ansatt som kursveileder i webutvikling for Jobloop.<br />
-Jeg liker å lære nye ting og lærer nye ting fort.<br />
-Fritiden går til gaming, lesing og kreative hobbier.
+Er nå ansatt som kursleder og kursveileder Kodeloftet Bergen for Jobloop.<br />
+Kodeloftet er et nybegynner kurs i webutvikling der vi utvikler nettsider med HTML, CSS og JS.<br />
+Fritiden min går til gaming, lesing og kreative hobbier.<br />
+Tidligere så het jeg JulieKodehode her på Github, men har byttet navn ettersom jeg ikke lenger er en deltaker på Kodehode.
 
 <!--
 ### ✨ Currents ✨
